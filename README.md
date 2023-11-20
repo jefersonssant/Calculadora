@@ -1,7 +1,7 @@
 # Calculadora
  Calculadora criada com factory function
 
- Acesse e faça seus cálculos [aqui](jefersonssant.github.io/Calculadora/)
+ Acesse e faça seus cálculos [aqui](https://jefersonssant.github.io/Calculadora/)
 
  Treinamento com funções: factory function JavaScript, imagem abaixo:
 
